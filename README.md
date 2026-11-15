@@ -16,7 +16,7 @@
 * **Git & GitHub** — ვერსიების კონტროლისა და გუნდური კოლაბორაციისთვის
 
 ## 🎨 დიზაინი (UI/UX Design)
-* **Figma Design:** [ჩასვით Figma-ს ბმული აქ]
+* **Figma Design:** figma.com/design/S6uia1dz9f3qE7JOU83zPX/Bakery-Website-Ui--Community-?node-id=0-1&t=ydqAOuKuRUInIqTM-0
 
 ## 👥 გუნდი და სამუშაოების განაწილება (Team & Responsibilities)
 

@@ -27,7 +27,7 @@
 | **About / Story Section** | `feature/about` | *სახელი გვარი* |
 | **Products / Menu Section** | `feature/products` | *სახელი გვარი* |
 | **Testimonials / Reviews** | `feature/testimonials` | *სახელი გვარი* |
-| **Footer** | `feature/footer` | *სახელი გვარი* |
+| **Footer** | `feature/footer` | ლიკა |
 
 ## 📁 პროექტის სტრუქტურა (Folder Structure)
 ```text

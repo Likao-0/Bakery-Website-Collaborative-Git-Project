@@ -210,5 +210,31 @@
 }
 
 /* media queries start */
+@media (max-width: 768px) {
+    .footer {
+        padding: 25px;
+    }
 
+    .footer-top {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .social {
+        gap: 12px;
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+
+    .news {
+        grid-column: 1 / -1;
+    }
+
+    .copyright {
+        margin-top: 40px;
+    }
+}
 /* media queries end */

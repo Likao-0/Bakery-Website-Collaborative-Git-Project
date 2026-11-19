@@ -172,6 +172,42 @@
     font-weight: 600;
 }
 
+/* Social Icons */
+
+.social {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    color: var(--active);
+}
+
+.social span {
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.social a {
+    color: var(--active);
+    font-size: 27px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.social a:hover {
+    color: var(--light-0);
+    transform: translateY(-3px);
+}
+
+/* Explore Hover */
+
+.explore a {
+    transition: 0.3s;
+}
+
+.explore a:hover {
+    color: var(--active);
+}
 
 /* media queries start */
 

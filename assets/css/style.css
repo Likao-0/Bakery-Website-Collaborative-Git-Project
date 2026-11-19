@@ -91,6 +91,87 @@
 }
 
 /* footer styles end */
+/* Footer Content Styling */
+
+/* Footer Titles */
+
+.footer-column h2 {
+    color: var(--active);
+    font-size: var(--footer-title);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+/* About Us */
+
+.about p {
+    font-size: 16px;
+    line-height: 28px;
+    color: var(--light-100);
+}
+
+.about strong {
+    font-weight: 600;
+}
+
+/* Explore */
+
+.explore ul {
+    list-style: none;
+}
+
+.explore li {
+    margin-bottom: 3px;
+}
+
+.explore a {
+    color: var(--light-100);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/* Recent News */
+
+.news-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.news-item img {
+    width: 65px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.news-text span {
+    color: var(--active);
+    font-size: 12px;
+    display: block;
+    margin-bottom: 1px;
+}
+
+.news-text p {
+    color: var(--light-100);
+    font-size: 15px;
+    line-height: 20px;
+}
+
+/* Copyright */
+
+.copyright {
+    text-align: center;
+    margin-top: 68px;
+}
+
+.copyright p {
+    color: var(--light-100);
+    font-size: 15px;
+    font-weight: 600;
+}
+
 
 /* media queries start */
 
